@@ -1,0 +1,5 @@
+unit Click_LOAD_CELL_config;
+
+uses Click_LOAD_CELL_types;
+
+end.

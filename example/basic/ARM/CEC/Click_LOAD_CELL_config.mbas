@@ -1,0 +1,5 @@
+module Click_LOAD_CELL_config
+
+include Click_LOAD_CELL_types
+
+end.
